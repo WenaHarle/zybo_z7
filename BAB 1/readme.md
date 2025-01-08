@@ -10,4 +10,5 @@ Panduan ini dirancang untuk pemula dan akan membantu Anda memulai dengan Zybo Z7
 - **Kompatibilitas Alat Pemrograman**: Mendukung berbagai alat pengembangan profesional, seperti Vivado untuk pengembangan FPGA dan Vitis untuk aplikasi berbasis ARM.
 - **Ekosistem Lengkap**: Dilengkapi dengan sumber daya pendukung, termasuk dokumentasi resmi, tutorial, dan contoh proyek yang dapat diakses melalui situs resmi Digilent.
 
+![Alt Text](images/zybo_z7.jpg)
 Untuk informasi lebih lengkap dan pembaruan terbaru, kunjungi [halaman resmi Zybo Z7 di situs Digilent](https://digilent.com/reference/programmable-logic/zybo-z7/start).
