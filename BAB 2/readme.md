@@ -40,9 +40,12 @@ Zybo Z7 adalah papan pengembangan serbaguna yang didukung oleh chip Xilinx Zynq-
 | 31        | Memori DDR3L                    | RAM DDR3L onboard untuk penyimpanan sistem pemrosesan yang cepat.           |
 
 ---
+## Instalasi VIvado
 
-## Instruksi Penggunaan
 
+
+---
+## Memilih mode pada papan
 1. **Menghidupkan Papan:**
    - Gunakan sakelar daya (1) untuk menyalakan papan setelah menghubungkan sumber daya melalui jumper pilihan daya (2).
 
@@ -58,9 +61,7 @@ Zybo Z7 adalah papan pengembangan serbaguna yang didukung oleh chip Xilinx Zynq-
 
 5. **Menggunakan Chip Zynq:**
    - Kembangkan dan terapkan perangkat lunak pada prosesor ARM di dalam chip Zynq (30) untuk fungsi yang lebih lanjut.
-
 ---
-
 ## Referensi
 - [Panduan Referensi Zybo Z7](https://digilent.com/reference)
 
