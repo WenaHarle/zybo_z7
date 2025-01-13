@@ -64,8 +64,3 @@ Zybo Z7 adalah papan pengembangan serbaguna yang didukung oleh chip Xilinx Zynq-
 ---
 ## Referensi
 - [Panduan Referensi Zybo Z7](https://digilent.com/reference)
-
-
-- Kabel USB  
-- Adaptor daya (jika termasuk)  
-- Panduan memulai cepat
