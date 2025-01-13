@@ -1,8 +1,9 @@
 # Memulai
 ## Papan Zybo Z7
-# Zybo Z7 Board Overview (Bahasa Indonesia)
 
-Zybo Z7 adalah papan pengembangan serbaguna yang didukung oleh chip Xilinx Zynq-7000. Papan ini mencakup berbagai antarmuka dan fitur, membuatnya menjadi pilihan yang sangat baik untuk proyek mulai dari sistem embedded hingga percepatan perangkat keras. Berikut adalah penjelasan lengkap untuk setiap komponen yang terdaftar.
+Zybo Z7 adalah papan pengembangan serbaguna yang didukung oleh chip Xilinx Zynq-7000. Papan ini mencakup berbagai antarmuka dan fitur, membuatnya menjadi pilihan yang sangat baik untuk proyek mulai dari sistem tertanam hingga percepatan perangkat keras. Berikut adalah penjelasan lengkap untuk setiap komponen yang terdaftar.
+
+![Alt Text](images/board.png)
 
 | **Nomor** | **Komponen**                      | **Deskripsi**                                                                 |
 |-----------|----------------------------------|-------------------------------------------------------------------------------|
