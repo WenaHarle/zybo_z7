@@ -40,7 +40,7 @@ Zybo Z7 adalah papan pengembangan serbaguna yang didukung oleh chip Xilinx Zynq-
 | 31        | Memori DDR3L                    | RAM DDR3L onboard untuk penyimpanan sistem pemrosesan yang cepat.           |
 
 ---
-## Instalasi VIvado
+## Instalasi Vivado && Vitis
 
 
 
